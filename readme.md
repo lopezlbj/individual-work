@@ -1,10 +1,16 @@
 #Learning Objectives for Individual Work
 
 *Network activity
-*Remotes
+
+**Remotes
+
 *Fetch/push
+
 *Branches
+
 *Student repositories
+
 *Github Classroom
+
 *Permissions
 

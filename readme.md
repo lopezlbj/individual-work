@@ -14,3 +14,6 @@
 
 *Permissions
 
+*Exercises
+
+*Automated testing
